@@ -1,5 +1,5 @@
 I created a script implimenting the Douglas_Peucker Algorithm during my Master's study as a side project (12/1/2013). 
-The script is now upadted to run as a geoprocessing tool 3/24/2019. 
+The script is now upadted to run as a geoprocessing tool in ArcGIS 3/24/2019. 
 
 Included:
 Douglas_Peucker.py			> Python script
